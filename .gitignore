@@ -1,4 +1,6 @@
 # Logs
+
+decret.md
 logs
 *.log
 npm-debug.log*
